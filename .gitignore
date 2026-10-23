@@ -1,0 +1,23 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Downloaded ESC-50 dataset
+ESC-50/
+ESC-50-master/
+
+# Processed dataset and model outputs
+outputs/
+models/
+checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
